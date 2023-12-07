@@ -1,0 +1,17 @@
+body{
+    width: 100%;
+}
+.topbar{
+    height: auto;
+    width: 100%;
+    background: url('../img/quang_caotop-1.png');
+    /* ko lập đi lập lại ảnh */
+    background-repeat: no-repeat;
+    /* cho img vào giữa
+    display: flex;
+    justify-content: center;
+    */
+    display: flex;
+    justify-content: center;
+    background-color:#AC0A0C;
+}
