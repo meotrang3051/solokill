@@ -20,19 +20,21 @@
     <div class="wrapper">
         <!-- mai hỏi thầy tại sao lại mất cái img -->
         <!-- header -->
-        <div class="header">
+        <div class="header container-fluid">
             <!-- topbar -->
             <div class="topbar">
-                <img src="./img/quang_caotop-1.png" alt="">
+                <div class="topbar-img">
+                </div>
+            </div>
 
-                <div class="topbar-content">
+            <div class="topbar-content">
                 <div class="logo">
-                    <img src="./img/ads4.jpg" alt="">
+                    <img src="./img/lg.png" alt="">
                 </div>
                 <div class="gioithieu"></div>
                 <div class="lohin"></div>
-                </div>
             </div>
+
 
         </div>
 

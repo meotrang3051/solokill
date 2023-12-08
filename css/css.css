@@ -1,17 +1,11 @@
 body{
     width: 100%;
+    height: 100%;
 }
-.topbar{
-    height: auto;
-    width: 100%;
+.topbar-img{
     background: url('../img/quang_caotop-1.png');
-    /* ko lập đi lập lại ảnh */
+    height: 50px;
+    width: 100%;
     background-repeat: no-repeat;
-    /* cho img vào giữa
-    display: flex;
-    justify-content: center;
-    */
-    display: flex;
-    justify-content: center;
     background-color:#AC0A0C;
 }
