@@ -1,11 +1,39 @@
 body{
     width: 100%;
     height: 100%;
+    padding: 0 !important;
 }
-.topbar-img{
+.topbar-img {
     background: url('../img/quang_caotop-1.png');
     height: 50px;
     width: 100%;
     background-repeat: no-repeat;
-    background-color:#AC0A0C;
+    background-color: #AC0A0C;
+    background-position: center;
 }
+
+.gioithieu{
+    color: red;
+}
+
+.topbar-content{
+    height: 70px;
+}
+
+.logo img {
+    height: 60px;
+}
+
+.gioithieu {
+    /* Remove the display: flex; property */
+}
+
+.gioithieu p {
+    /* Additional styling for the <p> element if needed */
+}
+.navbar{
+    background-color: #E7E5E5;
+    height: 60px;
+    width: 100%;
+}
+
