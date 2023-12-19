@@ -43,3 +43,6 @@ body{
 .navbar a:hover{
     color:#aa0202 ;
 }
+.online{
+    font-size: 100px;
+}

@@ -139,7 +139,7 @@
 
 
         </div>
-         <!-- bên phải -->
+        <!-- bên phải -->
         <div class=" mt-4 container-fluid" style="background-color: #F3F7FA;">
             <div class="container ">
                 <div class="trai col-8 text-left ">
@@ -173,20 +173,43 @@
                     </div>
 
                     <div class="continner row mt-4">
-                    <div class="anh1 col-4">
-                        <img src="./img/Lich-khai-giang-Ha-Noi.jpg" alt="Los Angeles" width="220" height="120">
-                    </div>
-                    <div class="anh2 col-4">
-                        <img src="./img/Khai-giang-hcm.jpg" alt="Los Angeles" width="220" height="120">
-                    </div>
-                    <div class="anh3 col-4">
-                        <img src="./img/khai-giang-da-nang.jpg" alt="Los Angeles" width="220" height="120">
+                        <div class="anh1 col-4">
+                            <img src="./img/Lich-khai-giang-Ha-Noi.jpg" alt="Los Angeles" width="220" height="120">
+                        </div>
+                        <div class="anh2 col-4">
+                            <img src="./img/Khai-giang-hcm.jpg" alt="Los Angeles" width="220" height="120">
+                        </div>
+                        <div class="anh3 col-4">
+                            <img src="./img/khai-giang-da-nang.jpg" alt="Los Angeles" width="220" height="120">
+                        </div>
                     </div>
                 </div>
+                <p style="font-size: 25px;color: #AA0202;margin-top: 7px; ">TOEIC Online miễn phí</p>
             </div>
-                </div>
-               
-               
+            <!-- Nav tabs -->
+            <div class="container">
+            <ul class="nav nav-tabs">
+                <li class="nav-item" style="color:grey;">
+                    <a class="nav-link active" data-toggle="" href="#home">TOEIC Writing</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#menu1">TOEIC Reading</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#menu2">TOEIC Speaking </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-toggle="tab" href="#menu2">TOEIC Reading </a>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane container active" id="home">...</div>
+                <div class="tab-pane container fade" id="menu1">...</div>
+                <div class="tab-pane container fade" id="menu2">...</div>
+            </div>
+            </div>xml_error_string
             <!-- bên trái   -->
 
         </div>
