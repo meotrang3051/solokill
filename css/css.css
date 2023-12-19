@@ -32,8 +32,14 @@ body{
     /* Additional styling for the <p> element if needed */
 }
 .navbar{
-    background-color: #E7E5E5;
     height: 60px;
     width: 100%;
 }
 
+.navbar a{
+    color: black;
+}
+
+.navbar a:hover{
+    color:#aa0202 ;
+}
